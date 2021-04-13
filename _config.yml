@@ -14,7 +14,6 @@ timezone: ''
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://yoursite.com
-root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -99,12 +98,3 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: ''
-
-theme_config:
-  scheme: Gemini
-  menu:
-    home: / || fa fa-home
-    #about: /about/ || fa fa-user
-    tags: /tags/ || fa fa-tags
-    categories: /categories/ || fa fa-th
-    archives: /archives/ || fa fa-archive
