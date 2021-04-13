@@ -573,9 +573,9 @@ hexo-cli@^4.0.0:
     tildify "^2.0.0"
 
 hexo-extend-injector2@^0.3.0:
-  version "0.3.0"
-  resolved "https://registry.yarnpkg.com/hexo-extend-injector2/-/hexo-extend-injector2-0.3.0.tgz#8f7f76cd8e21fb9991c59169ae600206a1967048"
-  integrity sha512-68uahUGMCAsqc/9KfDsmlsF2CVjKnijNclMoSqwlITnniHdi6LjvLq0bFR+UiA9mF1XV1dROVJOyeCID+wF+hw==
+  version "0.3.1"
+  resolved "https://registry.yarnpkg.com/hexo-extend-injector2/-/hexo-extend-injector2-0.3.1.tgz#fa2fac05415bd16c53786d51fe01b514bd11f1a9"
+  integrity sha512-rWgD0P72J7EySBVpEtvAfqzDGykYH+5HCfE4YZuMBonc65mD9cWXr+M13sjFY0M/N2GbhPsyF6jMnK3yZWnsFA==
   dependencies:
     clean-css "^5.1.1"
     hexo-util "^2.0.0"
@@ -686,7 +686,7 @@ hexo-server@^2.0.0:
 
 hexo-theme-next@next-theme/hexo-theme-next:
   version "8.3.0"
-  resolved "https://codeload.github.com/next-theme/hexo-theme-next/tar.gz/4f9e3cfaba645a7ebe6d633449a6758ecbde2db4"
+  resolved "https://codeload.github.com/next-theme/hexo-theme-next/tar.gz/b02a186765e096ec5b98c73f05f332cd2eb185c2"
 
 hexo-util@^2.0.0, hexo-util@^2.1.0, hexo-util@^2.4.0:
   version "2.4.0"
